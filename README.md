@@ -1,0 +1,1 @@
+JSON API for Library Management with JWT Authentication 
